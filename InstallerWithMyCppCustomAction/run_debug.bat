@@ -1,0 +1,1 @@
+.\build\out.msi /l* log.txt

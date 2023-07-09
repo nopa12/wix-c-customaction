@@ -1,0 +1,7 @@
+*.ilk
+*.pdb
+*.obj
+*.dll
+*.exp
+*.lib
+wix311-binaries
